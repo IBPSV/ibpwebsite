@@ -1,2 +1,0 @@
-# ibpwebsite
-Sitio web empresarial
